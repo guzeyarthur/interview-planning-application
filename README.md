@@ -769,14 +769,14 @@ First of all, you need to get the project. You can do this by two ways:
 - [Cloning the repository](#cloning-the-repository)
 
 #### Getting zip project file
-To download project in zip follow the [link](https://github.com/GrEFeRFeeD/intellistart-java-2022-oneweek/archive/refs/heads/main.zip).
+To download project in zip follow the [link](https://github.com/guzeyarthur/interview-planning-application/archive/refs/heads/main.zip).
 
 After downloading, unzip the archive and go to __intellistart-java-2022-oneweek-main__ directory.
 
 #### Cloning the repository
 To clone the repository run the console and type:
 
-`git clone https://github.com/GrEFeRFeeD/intellistart-java-2022-oneweek.git`
+`git clone https://github.com/guzeyarthur/interview-planning-application.git`
 
 After cloning is done change the directory to __intellistart-java-2022-oneweek-main__ by the following command:
 
@@ -869,12 +869,12 @@ Execute the __com.intellias.intellistart.interviewplanning.InterviewPlanningAppl
 This section describes all additional information about the project that does not match the topics below and materials putted to __/docs__ directory of the repository.
 
 ### Postman collection
-The project has [Postman collection](https://github.com/GrEFeRFeeD/intellistart-java-2022-oneweek/tree/main/docs/postman) to demonstrate the work of implemented endpoints. 
+The project has [Postman collection](https://github.com/guzeyarthur/interview-planning-application/tree/main/docs/postman) to demonstrate the work of implemented endpoints. 
 
 ### Performance testing
 The project has passed performance testing with JMeter.
 
-The performance profile could be found by the [link](https://github.com/GrEFeRFeeD/intellistart-java-2022-oneweek/tree/main/docs/jmeter).
+The performance profile could be found by the [link](https://github.com/guzeyarthur/interview-planning-application/tree/main/docs/jmeter).
 
 To run the tests, put the StartDataLoader in __com.intellias.intellistart.interviewplanning.initialization__ instead of already existed file.
 
